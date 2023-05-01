@@ -22,7 +22,7 @@
 
 
 <div width="100%">
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzulhaque-22&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzulhaque22&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
 </div>
 
