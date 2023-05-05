@@ -17,12 +17,12 @@
 
 
 
-![Mahfuz's GitHub langu](https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzulhaque22&show_icons=true&theme=radical&hide_border=true)
-![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzulhaque22&show_icons=true&theme=radical&hide_border=true)
+![Mahfuz's GitHub langu](https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzulhaque22 &show_icons=true&theme=radical&hide_border=true)
+![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzulhaque22 &show_icons=true&theme=radical&hide_border=true)
 
 
 <div width="100%">
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzulhaque22&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuzulhaque22 &theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
 </div>
 
